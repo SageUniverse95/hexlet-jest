@@ -1,0 +1,15 @@
+{
+  "name": "hexlet-jest",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Learning Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrei Krivoshein",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
