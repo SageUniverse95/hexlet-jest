@@ -1,1 +1,7 @@
-export default str => str.split('').reverse().join('');
+const sayHi = () => {
+    return 'Hello World'
+}
+export default sayHi;
+
+
+console.log(sayHi());
