@@ -7,7 +7,7 @@ jobs:
 
   build:
 
-    runs-on: ubuntu-laters
+    runs-on: ubuntu-latest
     steps:
 
 
